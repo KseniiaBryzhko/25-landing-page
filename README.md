@@ -1,2 +1,1 @@
-# wall-print
-pet-project
+training
